@@ -1,0 +1,1 @@
+document.getElementById("scap").innerHTML = Math.floor(Math.random() * 10000) + 1000;
